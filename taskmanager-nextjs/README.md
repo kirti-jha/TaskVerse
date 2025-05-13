@@ -8,7 +8,8 @@ Tech Stack Requirements:
 - Database: MongoDB/Prisma
 - Communication: REST API
 - Authentication : Clerk
-Core Functionalities (MUST-HAVE):
+  
+Core Functionalities:
 1. Create Task - Title, Description, Due Date, Status (To-Do, In Progress, Done)
 2. View Tasks - Fetch all tasks, filter by status, display in UI
 3. Update Task - Update title, description, due date, or status
